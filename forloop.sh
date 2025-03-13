@@ -2,7 +2,7 @@
 for i in {1..1000}
 do
 echo $i 
-echo $ii
-touch $i
+echo $ii $iii
+touch $i $ity
 done
 ## Shell command line END ##
