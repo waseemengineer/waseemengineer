@@ -4,7 +4,7 @@ do
 echo $i 
 echo $ii $iii $ui
 echo $ii let 
-i++
+echo i++ $some code has been updated 
 touch $i $ity code has $been changed
 done
 ## Shell command line END ##
