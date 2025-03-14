@@ -1,1 +1,2 @@
 Hi I am new linux
+I am writing something new
